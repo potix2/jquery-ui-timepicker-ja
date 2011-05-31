@@ -1,0 +1,21 @@
+This is a japanese resource file for jQuery UI Timepicker plugin. The original
+plugin is written by Francois Gelinas. This project contains a resource file
+only, so you must get an original plugin from following sites.
+
+Website: http://fgelinas.com/code/timepicker/
+github: http://github.com/fgelinas/timepicker
+
+Usage:
+
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="jquery.ui.js"></script>
+<script type="text/javascript" src="jquery.ui.timepicker.js"></script>
+<script type="text/javascript" src="jquery.ui.timepicker-ja.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#timepicker').timepicker();
+});
+</script>
+
+Author: Katsunori Kanda <potix2@gmail.com>
+License:  The new BSD license
