@@ -8,7 +8,7 @@ github: http://github.com/fgelinas/timepicker
 Usage:
 
 <script type="text/javascript" src="jquery.js"></script>
-<script type="text/javascript" src="jquery.ui.js"></script>
+<script type="text/javascript" src="jquery.ui.core.js"></script>
 <script type="text/javascript" src="jquery.ui.timepicker.js"></script>
 <script type="text/javascript" src="jquery.ui.timepicker-ja.js"></script>
 <script type="text/javascript">
